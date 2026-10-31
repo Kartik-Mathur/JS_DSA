@@ -1,8 +1,6 @@
 # JavaScript DSA Interview Questions and Solutions
 
-48 commonly asked DSA and JavaScript coding interview questions, each with an explanation, an example, and a solution in plain JavaScript.
-
-## Table of Contents
+## Questions List
 
 - [Q1. Flatten a Nested Object](#q1-flatten-a-nested-object)
 - [Q2. Unflatten an Object](#q2-unflatten-an-object)
